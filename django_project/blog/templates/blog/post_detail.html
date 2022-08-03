@@ -3,7 +3,7 @@
     <article class="media content-section">
       <img class="rounded-circle article-img" src="{{ object.author.profile.image.url }}">
       <div class="media-body">
-        <div class="article-metadata">
+        <div class="article-metadata mb-3">
           <a class="mr-2" href="#">{{ object.author }}</a>
           <small class="text-muted">{{ object.date_posted|date:"F d, Y" }}</small>
           {% if object.author == user %}
@@ -13,7 +13,7 @@
           </div>
           {% endif %}
         </div>
-        <h2 class="article-title">{{ object.title }}</h2>
+        <h3 class="article-title">{{ object.title }}</h3>
         <p class="article-content">{{ object.content }}</p>
       </div>
     </article>
