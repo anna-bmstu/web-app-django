@@ -35,9 +35,24 @@ email и обновить фото профиля.
 ## Screenshots
 #### Home page
 Домашняя страница блога, на которой отображаются посты пользователей<br><br>
-![home_page](https://user-images.githubusercontent.com/55577096/182869552-4560f7a3-0a04-48d5-8c4b-cfbedabe8b5a.png)
+![home_page2](https://user-images.githubusercontent.com/55577096/183099269-ff3808eb-63a1-435d-97e9-b9d041e1367f.png)
 #### Register
+Регистрация пользователя<br><br>
 ![register_page](https://user-images.githubusercontent.com/55577096/182869620-1efd0082-6c78-47b2-b546-1e05004d1ef6.png)
 #### Log in
 После регистрации пользователь перенаправляется на страницу для входа в учетную запись<br><br>
 ![after_reg](https://user-images.githubusercontent.com/55577096/182869640-448f0320-53f8-4371-9ddc-298687740587.png)
+#### Profile
+Пользователь может зайти на страницу своего профиля. Здесь он может изменить никнейм, почту и дефолтную аватарку<br><br>
+![profile](https://user-images.githubusercontent.com/55577096/183101761-dd863dab-5605-467c-986d-ff5d20ffb76a.png)
+#### New post
+Пользователь может написать пост<br><br>
+![new_post](https://user-images.githubusercontent.com/55577096/183102808-14731eda-d314-432a-9555-54ef945dd5aa.png)
+#### Post details
+Страница поста. Пользователь может обновить или удалить свой пост<br><br>
+![post_page](https://user-images.githubusercontent.com/55577096/183103543-132ec27e-2b84-45da-85a4-9ed3a51b2fc5.png)
+#### Post delete
+Подтверждение удаления<br><br>
+![post_delete](https://user-images.githubusercontent.com/55577096/183103918-74c6451c-3f09-496e-987f-40a7ec7b178d.png)
+#### Log out
+![logout](https://user-images.githubusercontent.com/55577096/183104337-dd7a8cc4-b8ef-453b-9f57-2167a152a83a.png)
