@@ -31,9 +31,13 @@ email и обновить фото профиля.
 
 Основные атрибуты пользователя по умолчанию: username, password, email, first_name, last_name.
 
-Фильтры date
 
+## Screenshots
+#### Home page
+Домашняя страница блога, на которой отображаются посты пользователей<br><br>
 ![home_page](https://user-images.githubusercontent.com/55577096/182869552-4560f7a3-0a04-48d5-8c4b-cfbedabe8b5a.png)
-
+#### Register
 ![register_page](https://user-images.githubusercontent.com/55577096/182869620-1efd0082-6c78-47b2-b546-1e05004d1ef6.png)
+#### Log in
+После регистрации пользователь перенаправляется на страницу для входа в учетную запись<br><br>
 ![after_reg](https://user-images.githubusercontent.com/55577096/182869640-448f0320-53f8-4371-9ddc-298687740587.png)
